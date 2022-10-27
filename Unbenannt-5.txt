@@ -1,0 +1,9 @@
+(centered portrait of ) (oloap:1.3), brown hair, blue iris, (masterwork drawn by Eiichiro Oda) (in style of anime), black ink & colored copic  markers, insanely detailed, 8 k, hd
+
+beard, facial hair, multiple people, multiple heads, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
+https://www.dropbox.com/s/gkr0cpplewheebg/model.ckpt?dl=0
+
+gkr0cpplewheebg
+
+moviepy==1.0.3

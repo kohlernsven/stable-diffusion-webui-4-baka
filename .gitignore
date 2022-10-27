@@ -3,7 +3,6 @@ __pycache__
 *.pth
 /ESRGAN/*
 /SwinIR/*
-/repositories
 /venv
 /tmp
 /model.ckpt
@@ -15,18 +14,12 @@ __pycache__
 /config.json
 /log
 /webui.settings.bat
-/embeddings
-/styles.csv
 /params.txt
 /styles.csv.bak
-/webui-user.bat
 /webui-user.sh
-/interrogate
 /user.css
 /.idea
 notification.mp3
 /SwinIR
-/textual_inversion
 .vscode
-/extensions
 
